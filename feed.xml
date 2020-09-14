@@ -2,7 +2,11 @@
 <rss version="2.0">
 
 <channel>
+<<<<<<< HEAD
   <title>Origen </title>
+=======
+  <title>W3Schools Home Pages</title>
+>>>>>>> 26eb999cb17a4b893923d94ad93610cccd513b60
   <link>https://www.w3schools.com</link>
   <description>Free web building tutorials</description>
   <item>
