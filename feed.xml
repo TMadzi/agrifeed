@@ -1,21 +1,149 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-
-<channel>
-  <title>Origen </title>
-  <title>W3Schools Home Pages</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
-  <item>
-    <title>SOYA USD$100.00</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
-  </item>
-</channel>
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<channel>
+		<item>
+			<title>MSRG R3820</title>
+		</item>
+		<item>
+			<title>MSRG R3849</title>
+		</item>
+		<item>
+			<title>MSRG R3800</title>
+		</item>
+		<item>
+			<title>MSRG R3900</title>
+		</item>
+		<item>
+			<title>SOYA R6935</title>
+		</item>
+		<item>
+			<title>SOYA R6969</title>
+		</item>
+		<item>
+			<title>SOYA R7224</title>
+		</item>
+		<item>
+			<title>SOYA R7589</title>
+		</item>
+		<item>
+			<title>SOYA R7880</title>
+		</item>
+		<item>
+			<title>SOYA R7615</title>
+		</item>
+		<item>
+			<title>SOYA R7880</title>
+		</item>
+		<item>
+			<title>SOYA R7868</title>
+		</item>
+		<item>
+			<title>SUNS R7000</title>
+		</item>
+		<item>
+			<title>SUNS R7087</title>
+		</item>
+		<item>
+			<title>SUNS R6790</title>
+		</item>
+		<item>
+			<title>SUNS R7877</title>
+		</item>
+		<item>
+			<title>SUNS R7868</title>
+		</item>
+		<item>
+			<title>SUNS R7357</title>
+		</item>
+		<item>
+			<title>SUNS R7637</title>
+		</item>
+		<item>
+			<title>SUNS R7770</title>
+		</item>
+		<item>
+			<title>WEAT R5050</title>
+		</item>
+		<item>
+			<title>WEAT R5039</title>
+		</item>
+		<item>
+			<title>WEAT R5010</title>
+		</item>
+		<item>
+			<title>WEAT R4979</title>
+		</item>
+		<item>
+			<title>WEAT R4886</title>
+		</item>
+		<item>
+			<title>WEAT R4964</title>
+		</item>
+		<item>
+			<title>WEAT R4921</title>
+		</item>
+		<item>
+			<title>WEAT R4887</title>
+		</item>
+		<item>
+			<title>WMAZ R2948</title>
+		</item>
+		<item>
+			<title>WMAZ R2946</title>
+		</item>
+		<item>
+			<title>WMAZ R2838</title>
+		</item>
+		<item>
+			<title>WMAZ R2880</title>
+		</item>
+		<item>
+			<title>WMAZ R2887</title>
+		</item>
+		<item>
+			<title>WMAZ R3185</title>
+		</item>
+		<item>
+			<title>WMAZ R3219.8</title>
+		</item>
+		<item>
+			<title>WMAZ R3247</title>
+		</item>
+		<item>
+			<title>WMAZ R3246</title>
+		</item>
+		<item>
+			<title>WMAZ R3255</title>
+		</item>
+		<item>
+			<title>YMAZ R2890</title>
+		</item>
+		<item>
+			<title>YMAZ R2951</title>
+		</item>
+		<item>
+			<title>YMAZ R2840.8</title>
+		</item>
+		<item>
+			<title>YMAZ R2820</title>
+		</item>
+		<item>
+			<title>YMAZ R2867</title>
+		</item>
+		<item>
+			<title>YMAZ R3154</title>
+		</item>
+		<item>
+			<title>YMAZ R3192</title>
+		</item>
+		<item>
+			<title>YMAZ R3143</title>
+		</item>
+		<item>
+			<title>YMAZ R3160</title>
+		</item>
+		<item>
+			<title>YMAZ R3157</title>
+		</item>
+	</channel>
 </rss>
