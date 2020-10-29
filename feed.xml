@@ -2,34 +2,31 @@
 <rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<channel>
 		<item>
-			<title>MSRG Mar 21 $236.14 - 0%</title>
+			<title>MSRG Mar 21 $256.45 up 2.7%</title>
 		</item>
 		<item>
-			<title>MSRG Dec 20 $237.43 up 1.84%</title>
+			<title>MSRG Dec 20 $263.81 up 2.87%</title>
 		</item>
 		<item>
-			<title>SOYA Nov 20 $503.46 up 7.76%</title>
+			<title>SOYA Nov 20 $518.43 up 0.75%</title>
 		</item>
 		<item>
-			<title>SOYA Oct 20 $506.77 up 4.82%</title>
+			<title>SOYA Oct 20 $522.9 up 1.46%</title>
 		</item>
 		<item>
-			<title>WEAT Nov 20 $300.44 down -1.35%</title>
+			<title>WEAT Nov 20 $311.18 up 3.43%</title>
 		</item>
 		<item>
-			<title>WEAT Oct 20 $314.12 up 4.04%</title>
+			<title>WEAT Oct 20 $308.42 down -4.97%</title>
 		</item>
 		<item>
-			<title>WMAZ Nov 20 $213.87 up 7.36%</title>
+			<title>WMAZ Nov 20 $226.7 up 0.82%</title>
 		</item>
 		<item>
-			<title>WMAZ Oct 20 $215.71 up 8.32%</title>
+			<title>YMAZ Oct 20 $220.25 up 0.5%</title>
 		</item>
 		<item>
-			<title>YMAZ Nov 20 $210.13 up 8.97%</title>
-		</item>
-		<item>
-			<title>YMAZ Oct 20 $209.64 up 8.13%</title>
+			<title>YMAZ Nov 20 $219.03 up 0.28%</title>
 		</item>
 	</channel>
 </rss>
